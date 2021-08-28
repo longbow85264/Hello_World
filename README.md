@@ -1,2 +1,2 @@
 # Hello_World
-Read me file
+paired motion/sound sensor
